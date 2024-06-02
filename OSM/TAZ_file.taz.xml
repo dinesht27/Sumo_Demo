@@ -1,0 +1,15 @@
+<!-- TAZ file creation (traffic assignment zone) -->
+
+<additional>
+<tazs>
+	<taz id="1" edges="79399335#1">
+	</taz>
+	<taz id="2" edges="-230330760#1">
+	</taz>
+	<taz id="3" edges="-79399335#0">
+	</taz>
+	<taz id="4" edges="-41576875">
+	</taz>
+
+</tazs>
+</additional>

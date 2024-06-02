@@ -1,0 +1,8 @@
+# creating the edge file (links that connect the nodes)
+
+<edges>
+<edge from="n1" to="n2" id="out" type="3L45"/> #Defining the edge lenght from 1 to 2 with 3 lanes
+<edge from="n2" to="n3" id="2to3" type="2L15"/>
+<edge from="n3" to="n4" id="3to4" type="3L25"/>
+<edge from="n4" to="n5" id="out" type="3L50"/>
+</edges>
