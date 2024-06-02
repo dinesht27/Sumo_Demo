@@ -1,0 +1,7 @@
+# creating the type file with the extension (.type.xml) which also includes the properties like road prority, the number of lanes, speed limit and vehicle types etc.
+
+<types>
+<type id = "3L45" priority="3" numLanes="3" speed="45"/> # the 3rd lane has the priority
+<type id = "2L15" priority="3" numLanes="2" speed="15"/>
+<type id = "3L30" priority="2" numLanes="3" speed="30"/>
+</types>

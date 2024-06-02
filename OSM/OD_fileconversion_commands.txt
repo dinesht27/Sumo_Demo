@@ -1,0 +1,10 @@
+Commands
+
+od2trips -c PATH\od2trips.config.xml -n PATH\taz_file.taz.xml -d PATH\OD_file.od -o PATH\od_file.odtrips.xml
+
+duarouter –c PATH\duarcfg_file.trips2routes.duarcfg
+
+
+od2trips -c G:\THD\Sumo_demo\Sumo_Demo\OSM\od2trips.config.xml -n G:\THD\Sumo_demo\Sumo_Demo\OSM\taz_file.taz.xml -d G:\THD\Sumo_demo\Sumo_Demo\OSM\OD_file.od -o G:\THD\Sumo_demo\Sumo_Demo\OSM\od_file.odtrips.xml
+
+duarouter –c G:\THD\Sumo_demo\Sumo_Demo\OSM\duarcfg_file.trips2routes.duarcfg
